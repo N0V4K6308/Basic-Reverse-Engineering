@@ -1,0 +1,18 @@
+# Ignore config files
+*.cfg
+
+# Visual Studio Code folder
+.vscode/
+
+# Ignore .venv folders
+.venv/
+
+# IDA Pro files (databases, signatures, temporary)
+*.idb
+*.i64
+*.id0
+*.id1
+*.id2
+*.til
+*.sig
+*.nam
